@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on knowledge graph embeddings for entity resolution
+- 🌱 I’m currently learning how to make clean python packages for reproducible research
+- 👯 I’m looking to collaborate on knowledge graph embeddings and data integration
+
 <!--
 **dobraczka/dobraczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
