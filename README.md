@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on knowledge graph embeddings and data integration
 
 ![](https://github-readme-stats.vercel.app/api?username=dobraczka&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=noctis_minimus)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dobraczka&layout=compact&hide_border=true&langs_count=8&theme=noctis_minimus)
 
 <!--
 **dobraczka/dobraczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
