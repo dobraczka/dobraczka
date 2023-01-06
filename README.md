@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on knowledge graph embeddings for entity resolution
-- 🌱 I’m currently learning how to make clean python packages for reproducible research
+- 🌱 I’m always trying to learn better ways to create clean python code
 - 👯 I’m looking to collaborate on knowledge graph embeddings and data integration
 
 ![](https://github-readme-stats.vercel.app/api?username=dobraczka&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=noctis_minimus)
